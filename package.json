@@ -1,0 +1,64 @@
+{
+	"name": "alice",
+	"version": "1.2.14",
+	"description": "Artificial Labile Intelligent Cybernated Existence",
+	"main": "alice.js",
+	"scripts": {
+		"start": "node index",
+		"login": "node login",
+		"test": "node --trace-warnings --use_strict --async-stack-traces alice"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/LeiamNashRebirth.git"
+	},
+	"keywords": [
+		"LeiamNash",
+    "ProjectAlice"
+	],
+	"author": "alice",
+	"license": "",
+	"bugs": {
+		"url": "https://github.com/LeiamNashRebirth/Alice-Ban/issues"
+	},
+	"homepage": "https://github.com/LeiamNashRebirth/Alice-Ban#readme",
+	"dependencies": {
+    "alice-api": "^1.0.0",
+    "alice-data": "^1.0.9",
+		"axios": "^1.2.2",
+		"body-parser": "",
+		"caesar-salad": "",
+		"canvas": "^2.7.0",
+		"chalk": "^2.4.2",
+		"cheerio": "",
+		"child_process": "",
+		"crypto": "",
+		"eval": "",
+		"extract-zip": "",
+		"figlet": "",
+		"fs-extra": "^11.1.0",
+		"helyt": "^1.3.16",
+		"jimp": "",
+		"knights-canvas": "^1.3.7-a",
+		"minimist": "",
+		"moment-timezone": "^0.5.40",
+		"ms": "",
+		"node-superfetch": "^0.3.3",
+		"npmlog": "",
+		"path": "",
+		"randomcolor": "^0.6.2",
+		"readline": "",
+		"request": "^2.88.2",
+		"semver": "",
+		"sequelize": "",
+		"sqlite3": "^5.0.11",
+		"string-similarity": "",
+		"supercharge": "^1.0.0",
+		"superfetch": "^1.1.1",
+		"to": "^0.2.9",
+		"totp-generator": "",
+		"youtube-search-api": "^1.1.1",
+    "youtubei.js": "^1.4.5",
+		"ytdl-core": "^4.11.2"
+	}
+}

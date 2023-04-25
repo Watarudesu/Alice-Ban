@@ -10,18 +10,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/LeiamNashRebirth.git"
+		"url": "git+https://github.com/Watarudesu.git"
 	},
 	"keywords": [
 		"LeiamNash",
+                "Shinpei",
 		"ProjectAlice"
 	],
 	"author": "alice",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/LeiamNashRebirth/Alice-Ban/issues"
+		"url": "https://github.com/Watarudesu/Alice-Ban/issues"
 	},
-	"homepage": "https://github.com/LeiamNashRebirth/Alice-Ban#readme",
+	"homepage": "https://github.com/Watarudesu/Alice-Ban#readme",
 	"dependencies": {
 		"alice-api": "^1.0.2",
 		"alice-data": "^1.0.9",
